@@ -18,3 +18,5 @@ did the step that added the "pagerank" with no problems
 finished all the steps of the exercise and saved my finished product. When trying to upload it to my github it would only come up as a blank page. going to try and figure out how to post the file. 
 
 Found out that i was trying to save it instead of export it and that was the problem 
+
+
