@@ -19,4 +19,14 @@ finished all the steps of the exercise and saved my finished product. When tryin
 
 Found out that i was trying to save it instead of export it and that was the problem 
 
+Excerise 2
 
+Im struggling to save the files in the right format
+
+saved them in txt but wont open in the application 
+
+Professor Graham was able to give me help. I just needed to save the file in a folder of its own.
+
+was able to go through the exercise very easily after this. 
+
+i will probably use thus application for my final project...just need to way an interesting way to use it for the final
